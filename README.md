@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://devchallenges-button-component-zeta.vercel.app/">
       Demo
     </a>
     <span> | </span>
@@ -60,7 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/your-user-name/your-project-name
+$ git clone https://github.com/Correia-jpv/button-component-dev
 
 # Install dependencies
 $ npm install
