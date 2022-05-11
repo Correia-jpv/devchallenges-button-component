@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://devchallenges.io/solutions/eoP1bcdcmNbjx8UhlcpS">
       Solution
     </a>
     <span> | </span>
@@ -60,7 +60,7 @@ To clone and run this application, you'll need [Git](https://git-scm.com) and [N
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Correia-jpv/button-component-dev
+$ git clone https://github.com/Correia-jpv/devchallenges-button-component
 
 # Install dependencies
 $ npm install
